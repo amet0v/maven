@@ -25,3 +25,4 @@ replay_pid*
 console/target
 service/target
 core/target
+suite/.idea
