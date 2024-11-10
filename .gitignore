@@ -25,3 +25,5 @@ replay_pid*
 core/target
 console/target
 service/target
+suite/.idea
+.DS_Store
